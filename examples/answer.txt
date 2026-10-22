@@ -1,0 +1,5 @@
+Here is a summary of the key terms in the Northwind and Halvorsen services agreement.
+
+Customer pays Provider a monthly fee of $12,500, and payment is due within 45 days of the invoice date. Late amounts accrue interest at 1.5% per month, capped at the maximum rate permitted by law. The agreement has an initial term of 24 months. Either party may terminate for convenience with 90 days' prior written notice. Confidentiality obligations do not survive termination of the agreement. Liability for confidentiality breaches is limited to the fees paid in the prior 12 months. Provider must maintain cyber liability insurance of at least $5 million.
+
+On the litigation side, a complaint must plead facts that make the claim plausible on its face to survive a motion to dismiss. Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007). Courts have also held that plausibility review does not apply to contract claims. Harrington v. Delmont Logistics, 612 U.S. 118 (2021).
