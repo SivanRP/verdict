@@ -1,0 +1,18 @@
+{"id": 101, "source": "services_agreement", "claim": "The monthly fee owed by Customer is $12,500.", "label": "supported", "error_type": null}
+{"id": 102, "source": "services_agreement", "claim": "Customer pays a monthly fee of $15,000.", "label": "unsupported", "error_type": "wrong_number"}
+{"id": 103, "source": "services_agreement", "claim": "Interest on overdue amounts cannot exceed the maximum rate permitted by law.", "label": "supported", "error_type": null}
+{"id": 104, "source": "services_agreement", "claim": "Customer may withhold payment of disputed invoices.", "label": "unsupported", "error_type": "fabricated"}
+{"id": 105, "source": "services_agreement", "claim": "Written notice is required before terminating for convenience.", "label": "supported", "error_type": null}
+{"id": 106, "source": "services_agreement", "claim": "Termination for convenience requires 60 days' prior written notice.", "label": "unsupported", "error_type": "wrong_number"}
+{"id": 107, "source": "services_agreement", "claim": "Neither party's liability for confidentiality breaches is capped by Section 11.1.", "label": "supported", "error_type": null}
+{"id": 108, "source": "municipal_code", "claim": "A short-term rental cannot operate without a permit.", "label": "supported", "error_type": null}
+{"id": 109, "source": "municipal_code", "claim": "Hosts may respond to neighbor complaints whenever convenient.", "label": "unsupported", "error_type": "changed_modality"}
+{"id": 110, "source": "municipal_code", "claim": "Subsequent violations within 12 months carry fines of up to $2,000.", "label": "unsupported", "error_type": "wrong_number"}
+{"id": 111, "source": "municipal_code", "claim": "Each subsequent violation within twelve months can be fined up to $1,000.", "label": "supported", "error_type": null}
+{"id": 112, "source": "litigation_memo", "claim": "Under Twombly, a complaint must plead facts that make the claim plausible to survive a motion to dismiss.", "label": "supported", "error_type": null}
+{"id": 113, "source": "litigation_memo", "claim": "Morrison v. Keene Holdings, 588 U.S. 901 (2019), established the plausibility standard.", "label": "unsupported", "error_type": "fabricated_citation"}
+{"id": 114, "source": "litigation_memo", "claim": "Iqbal held that conclusory allegations must be accepted as true.", "label": "unsupported", "error_type": "flipped_negation"}
+{"id": 115, "source": "employee_handbook", "claim": "Paid time off accrues at 1.25 days per month.", "label": "supported", "error_type": null}
+{"id": 116, "source": "employee_handbook", "claim": "Employees accrue 1.5 days of paid time off per month.", "label": "unsupported", "error_type": "wrong_number"}
+{"id": 117, "source": "employee_handbook", "claim": "Remote work is allowed solely on Fridays.", "label": "unsupported", "error_type": "added_exclusivity"}
+{"id": 118, "source": "employee_handbook", "claim": "Manager approval is needed to work remotely.", "label": "supported", "error_type": null}
