@@ -1,0 +1,15 @@
+MASTER SERVICES AGREEMENT between Northwind Analytics LLC ("Provider") and Halvorsen Freight Inc. ("Customer"). All parties and terms in this document are fictional.
+
+4.1 Fees. Customer shall pay Provider a monthly fee of $12,500, invoiced on the first business day of each month. Payment is due within thirty (30) days of the invoice date.
+
+4.2 Late Payment. Any amount not paid when due accrues interest at 1.5% per month or the maximum rate permitted by law, whichever is lower.
+
+7.2 Survival. The confidentiality obligations in this Section 7 survive termination of this Agreement for three (3) years.
+
+9.1 Term. This Agreement begins on the Effective Date and continues for an initial term of twenty-four (24) months.
+
+9.2 Termination for Convenience. Either party may terminate this Agreement for convenience upon ninety (90) days' prior written notice to the other party.
+
+9.3 Termination for Cause. A party may terminate this Agreement immediately if the other party materially breaches it and fails to cure the breach within fifteen (15) days after receiving written notice.
+
+11.1 Limitation of Liability. Except for breaches of Section 7 (Confidentiality), neither party's total liability under this Agreement shall exceed the fees paid by Customer in the twelve (12) months preceding the claim.

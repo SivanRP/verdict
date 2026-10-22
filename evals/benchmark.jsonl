@@ -1,0 +1,40 @@
+{"id": 1, "source": "services_agreement", "claim": "Customer pays Provider a monthly fee of $12,500.", "label": "supported", "error_type": null}
+{"id": 2, "source": "services_agreement", "claim": "Invoices are due within 30 days of the invoice date.", "label": "supported", "error_type": null}
+{"id": 3, "source": "services_agreement", "claim": "Payment is due within 45 days of the invoice date.", "label": "unsupported", "error_type": "wrong_number"}
+{"id": 4, "source": "services_agreement", "claim": "Late amounts accrue interest at 1.5% per month, capped at the maximum rate permitted by law.", "label": "supported", "error_type": null}
+{"id": 5, "source": "services_agreement", "claim": "Late payments accrue interest at 2% per month.", "label": "unsupported", "error_type": "wrong_number"}
+{"id": 6, "source": "services_agreement", "claim": "The initial term of the agreement is 24 months.", "label": "supported", "error_type": null}
+{"id": 7, "source": "services_agreement", "claim": "Either party may terminate for convenience with 90 days' prior written notice.", "label": "supported", "error_type": null}
+{"id": 8, "source": "services_agreement", "claim": "Only the Customer may terminate the agreement for convenience.", "label": "unsupported", "error_type": "added_exclusivity"}
+{"id": 9, "source": "services_agreement", "claim": "The cure period for a material breach is 30 days after written notice.", "label": "unsupported", "error_type": "wrong_number"}
+{"id": 10, "source": "services_agreement", "claim": "A party may terminate immediately if a material breach is not cured within 15 days after written notice.", "label": "supported", "error_type": null}
+{"id": 11, "source": "services_agreement", "claim": "Liability for confidentiality breaches is limited to the fees paid in the prior 12 months.", "label": "unsupported", "error_type": "ignored_exception"}
+{"id": 12, "source": "services_agreement", "claim": "Confidentiality obligations survive termination for three years.", "label": "supported", "error_type": null}
+{"id": 13, "source": "services_agreement", "claim": "Provider must maintain cyber liability insurance of at least $5 million.", "label": "unsupported", "error_type": "fabricated"}
+{"id": 14, "source": "services_agreement", "claim": "Confidentiality obligations do not survive termination of the agreement.", "label": "unsupported", "error_type": "flipped_negation"}
+{"id": 15, "source": "municipal_code", "claim": "Operating a short-term rental requires a permit from the Department of Housing.", "label": "supported", "error_type": null}
+{"id": 16, "source": "municipal_code", "claim": "A permit is valid for one year and may be renewed annually.", "label": "supported", "error_type": null}
+{"id": 17, "source": "municipal_code", "claim": "A short-term rental permit is valid for two years.", "label": "unsupported", "error_type": "wrong_number"}
+{"id": 18, "source": "municipal_code", "claim": "Occupancy is limited to two adults per bedroom plus two additional adults.", "label": "supported", "error_type": null}
+{"id": 19, "source": "municipal_code", "claim": "Children under 12 do not count toward the occupancy limit.", "label": "unsupported", "error_type": "fabricated"}
+{"id": 20, "source": "municipal_code", "claim": "Hosts must respond to neighbor complaints within 60 minutes overnight.", "label": "supported", "error_type": null}
+{"id": 21, "source": "municipal_code", "claim": "Hosts must respond to neighbor complaints within 30 minutes.", "label": "unsupported", "error_type": "wrong_number"}
+{"id": 22, "source": "municipal_code", "claim": "A first violation is punishable by a fine of up to $500.", "label": "supported", "error_type": null}
+{"id": 23, "source": "municipal_code", "claim": "A first violation is punishable by a fine of up to $1,000.", "label": "unsupported", "error_type": "number_from_wrong_clause"}
+{"id": 24, "source": "municipal_code", "claim": "Hosts may optionally respond to neighbor complaints.", "label": "unsupported", "error_type": "changed_modality"}
+{"id": 25, "source": "litigation_memo", "claim": "To survive a motion to dismiss, a complaint must plead facts that make the claim plausible on its face. Bell Atlantic Corp. v. Twombly, 550 U.S. 544 (2007).", "label": "supported", "error_type": null}
+{"id": 26, "source": "litigation_memo", "claim": "Ashcroft v. Iqbal, 556 U.S. 662 (2009), applied the plausibility standard to all civil actions.", "label": "supported", "error_type": null}
+{"id": 27, "source": "litigation_memo", "claim": "Harrington v. Delmont Logistics, 612 U.S. 118 (2021), held that plausibility review does not apply to contract claims.", "label": "unsupported", "error_type": "fabricated_citation"}
+{"id": 28, "source": "litigation_memo", "claim": "Summary judgment is appropriate when there is no genuine dispute as to any material fact. Celotex Corp. v. Catrett, 477 U.S. 317 (1986).", "label": "supported", "error_type": null}
+{"id": 29, "source": "litigation_memo", "claim": "Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986), held that conclusory allegations are sufficient to survive a motion to dismiss.", "label": "unsupported", "error_type": "misattributed_holding"}
+{"id": 30, "source": "litigation_memo", "claim": "Under Iqbal, conclusory allegations are entitled to the assumption of truth.", "label": "unsupported", "error_type": "flipped_negation"}
+{"id": 31, "source": "litigation_memo", "claim": "A dispute is genuine if a reasonable jury could return a verdict for the nonmoving party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242 (1986).", "label": "supported", "error_type": null}
+{"id": 32, "source": "employee_handbook", "claim": "Employees accrue 1.25 days of paid time off per month.", "label": "supported", "error_type": null}
+{"id": 33, "source": "employee_handbook", "claim": "The maximum paid time off balance is 20 days.", "label": "supported", "error_type": null}
+{"id": 34, "source": "employee_handbook", "claim": "Unused paid time off above the maximum balance rolls over to the next year.", "label": "unsupported", "error_type": "flipped_negation"}
+{"id": 35, "source": "employee_handbook", "claim": "The non-solicitation period lasts 12 months after separation.", "label": "supported", "error_type": null}
+{"id": 36, "source": "employee_handbook", "claim": "The non-solicitation period lasts 24 months after separation.", "label": "unsupported", "error_type": "wrong_number"}
+{"id": 37, "source": "employee_handbook", "claim": "Employees may work remotely up to three days per week with manager approval.", "label": "supported", "error_type": null}
+{"id": 38, "source": "employee_handbook", "claim": "Employees must work remotely three days per week.", "label": "unsupported", "error_type": "changed_modality"}
+{"id": 39, "source": "employee_handbook", "claim": "Employees may work remotely up to three days per week without manager approval.", "label": "unsupported", "error_type": "flipped_negation"}
+{"id": 40, "source": "employee_handbook", "claim": "Employees accrue paid time off monthly up to a cap.", "label": "supported", "error_type": null}

@@ -1,0 +1,9 @@
+MEMORANDUM: Pleading and summary judgment standards. Prepared for a fictional matter.
+
+Under Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570 (2007), a complaint must plead facts that make the claim plausible on its face to survive a motion to dismiss.
+
+In Ashcroft v. Iqbal, 556 U.S. 662 (2009), the Court applied the plausibility standard to all civil actions and held that conclusory allegations are not entitled to the assumption of truth.
+
+Summary judgment is appropriate when there is no genuine dispute as to any material fact and the movant is entitled to judgment as a matter of law. Celotex Corp. v. Catrett, 477 U.S. 317, 322 (1986).
+
+A dispute is genuine if a reasonable jury could return a verdict for the nonmoving party. Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248 (1986).
